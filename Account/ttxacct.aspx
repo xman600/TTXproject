@@ -1,11 +1,10 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ttxacct.aspx.cs" Inherits="Account.ttxacct" %>
-
+﻿
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <link href="Content/bootstrap.css" rel="stylesheet" />
 <head runat="server">
-    <title>Welcome To My Account</title>
+    <title>Welcome To My Account To My Account</title>
     <link href="Content/bootstrap.css" rel="stylesheet" />
   
     <style type="text/css">
