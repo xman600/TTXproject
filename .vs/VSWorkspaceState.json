@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\packages",
+    "\\packages\\bootstrap.4.1.1",
+    "\\packages\\bootstrap.4.1.1\\content",
+    "\\packages\\bootstrap.4.1.1\\content\\Content"
   ],
   "SelectedNode": "\\Account.sln",
   "PreviewInSolutionExplorer": false
