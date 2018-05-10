@@ -5,8 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>TTX Idea Express</title>
-    <link href="Content/bootstrap.css" rel="stylesheet" />
-    <link href="Content/bootstrap-grid.css" rel="stylesheet" />
+    
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
 </head>
 <body>
